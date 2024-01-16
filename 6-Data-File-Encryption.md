@@ -4,7 +4,6 @@
 
 - [What Are MD5, SHA-1, and SHA-256 Hashes, and How Do I Check Them?](https://www.howtogeek.com/67241/htg-explains-what-are-md5-sha-1-hashes-and-how-do-i-check-them/)
 - [ChatGPT](www.openai.com)
-
 ---
 ### <u>You have been made responsible for the company’s file server. How would you preserve the three elements of the CIA triad? </u>
 I would preserve the three elements of the CIA triad in the following ways; 
