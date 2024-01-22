@@ -2,7 +2,6 @@
 **Security Orchestration, Automation, and Response (SOAR)** 
 ---
 - Implementing a Security Orchestration, Automation, and Response (SOAR) solution provides significant benefits to a security team. It streamlines and automates routine tasks, allowing the team to focus on more complex security issues.
-<br/>
 - SOAR solutions facilitate a more coordinated and efficient response to incidents by integrating various security tools and systems. In the incident response process, SOAR acts as a central platform for managing and responding to alerts, orchestrating workflows, and enabling rapid, informed decision-making. This results in quicker identification, analysis, and resolution of security threats, enhancing the overall effectiveness of the incident response strategy. 
 
 ### Resources
